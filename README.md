@@ -1,6 +1,7 @@
 # DS-ALGO-REPO-HACKTOBER
 <br> 
-**Aim of this repository is to make a directory for common ds algo implementations in different languages.**
+<b>Aim of this repository is to make a directory for common ds algo implementations in different languages.**
+        </b>
         
 
 ---
